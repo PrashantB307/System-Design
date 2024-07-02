@@ -1,0 +1,12 @@
+
+
+** SOLID Principle ===>
+=======================
+
+S ===> Single Responsbility
+O ===> Open / Closed Principle
+↪ Open for extension
+↪ Closed for modification
+L ===> (LSP) Liskov Substitution Principle 
+I ===> (ISP) Interface Segregration Principle
+D ===> (DIP) Dependency Inversion Principle
